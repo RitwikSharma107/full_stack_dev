@@ -1,0 +1,15 @@
+/Users/_ritwik_sharma_/Documents/Github/full_stack_dev/C#/CS_Assignment1/CS_Assignment1/bin/Debug/net8.0/CS_Assignment1
+/Users/_ritwik_sharma_/Documents/Github/full_stack_dev/C#/CS_Assignment1/CS_Assignment1/bin/Debug/net8.0/CS_Assignment1.deps.json
+/Users/_ritwik_sharma_/Documents/Github/full_stack_dev/C#/CS_Assignment1/CS_Assignment1/bin/Debug/net8.0/CS_Assignment1.runtimeconfig.json
+/Users/_ritwik_sharma_/Documents/Github/full_stack_dev/C#/CS_Assignment1/CS_Assignment1/bin/Debug/net8.0/CS_Assignment1.dll
+/Users/_ritwik_sharma_/Documents/Github/full_stack_dev/C#/CS_Assignment1/CS_Assignment1/bin/Debug/net8.0/CS_Assignment1.pdb
+/Users/_ritwik_sharma_/Documents/Github/full_stack_dev/C#/CS_Assignment1/CS_Assignment1/obj/Debug/net8.0/CS_Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/_ritwik_sharma_/Documents/Github/full_stack_dev/C#/CS_Assignment1/CS_Assignment1/obj/Debug/net8.0/CS_Assignment1.AssemblyInfoInputs.cache
+/Users/_ritwik_sharma_/Documents/Github/full_stack_dev/C#/CS_Assignment1/CS_Assignment1/obj/Debug/net8.0/CS_Assignment1.AssemblyInfo.cs
+/Users/_ritwik_sharma_/Documents/Github/full_stack_dev/C#/CS_Assignment1/CS_Assignment1/obj/Debug/net8.0/CS_Assignment1.csproj.CoreCompileInputs.cache
+/Users/_ritwik_sharma_/Documents/Github/full_stack_dev/C#/CS_Assignment1/CS_Assignment1/obj/Debug/net8.0/CS_Assignment1.sourcelink.json
+/Users/_ritwik_sharma_/Documents/Github/full_stack_dev/C#/CS_Assignment1/CS_Assignment1/obj/Debug/net8.0/CS_Assignment1.dll
+/Users/_ritwik_sharma_/Documents/Github/full_stack_dev/C#/CS_Assignment1/CS_Assignment1/obj/Debug/net8.0/refint/CS_Assignment1.dll
+/Users/_ritwik_sharma_/Documents/Github/full_stack_dev/C#/CS_Assignment1/CS_Assignment1/obj/Debug/net8.0/CS_Assignment1.pdb
+/Users/_ritwik_sharma_/Documents/Github/full_stack_dev/C#/CS_Assignment1/CS_Assignment1/obj/Debug/net8.0/CS_Assignment1.genruntimeconfig.cache
+/Users/_ritwik_sharma_/Documents/Github/full_stack_dev/C#/CS_Assignment1/CS_Assignment1/obj/Debug/net8.0/ref/CS_Assignment1.dll
