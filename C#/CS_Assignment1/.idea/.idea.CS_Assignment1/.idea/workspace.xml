@@ -8,36 +8,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="605abc57-e148-4d91-a36f-7f6712cfdd2a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CS_Assignment1/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS_Assignment3/CS_Assignment3/Designing_and_Building_Classes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS_Assignment3/CS_Assignment3/Test_your_knowledge.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS_Assignment3/CS_Assignment3/Working_with_methods.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS_Assignment3/CS_Assignment3/bin/Debug/net8.0/CS_Assignment3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS_Assignment3/CS_Assignment3/bin/Debug/net8.0/CS_Assignment3.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS_Assignment3/CS_Assignment3/bin/Debug/net8.0/CS_Assignment3.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS_Assignment3/CS_Assignment3/bin/Debug/net8.0/CS_Assignment3.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS_Assignment3/CS_Assignment3/bin/Debug/net8.0/CS_Assignment3.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS_Assignment3/CS_Assignment3/obj/CS_Assignment3.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS_Assignment3/CS_Assignment3/obj/CS_Assignment3.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS_Assignment3/CS_Assignment3/obj/CS_Assignment3.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS_Assignment3/CS_Assignment3/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS_Assignment3/CS_Assignment3/obj/Debug/net8.0/CS_Assignment3.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS_Assignment3/CS_Assignment3/obj/Debug/net8.0/CS_Assignment3.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS_Assignment3/CS_Assignment3/obj/Debug/net8.0/CS_Assignment3.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS_Assignment3/CS_Assignment3/obj/Debug/net8.0/CS_Assignment3.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS_Assignment3/CS_Assignment3/obj/Debug/net8.0/CS_Assignment3.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS_Assignment3/CS_Assignment3/obj/Debug/net8.0/CS_Assignment3.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS_Assignment3/CS_Assignment3/obj/Debug/net8.0/CS_Assignment3.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS_Assignment3/CS_Assignment3/obj/Debug/net8.0/CS_Assignment3.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS_Assignment3/CS_Assignment3/obj/Debug/net8.0/CS_Assignment3.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS_Assignment3/CS_Assignment3/obj/Debug/net8.0/CS_Assignment3.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS_Assignment3/CS_Assignment3/obj/Debug/net8.0/CS_Assignment3.sourcelink.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS_Assignment3/CS_Assignment3/obj/Debug/net8.0/apphost" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS_Assignment3/CS_Assignment3/obj/Debug/net8.0/ref/CS_Assignment3.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS_Assignment3/CS_Assignment3/obj/Debug/net8.0/refint/CS_Assignment3.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS_Assignment3/CS_Assignment3/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS_Assignment3/CS_Assignment3/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS_Assignment3/CS_Assignment3/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS_Assignment4/CS_Assignment4/Practice_working_with_Generics.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS_Assignment4/CS_Assignment4/Test_your_Knowledge.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS_Assignment4/CS_Assignment4/bin/Debug/net8.0/CS_Assignment4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS_Assignment4/CS_Assignment4/bin/Debug/net8.0/CS_Assignment4.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS_Assignment4/CS_Assignment4/bin/Debug/net8.0/CS_Assignment4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS_Assignment4/CS_Assignment4/bin/Debug/net8.0/CS_Assignment4.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS_Assignment4/CS_Assignment4/bin/Debug/net8.0/CS_Assignment4.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS_Assignment4/CS_Assignment4/obj/CS_Assignment4.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS_Assignment4/CS_Assignment4/obj/CS_Assignment4.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS_Assignment4/CS_Assignment4/obj/CS_Assignment4.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS_Assignment4/CS_Assignment4/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS_Assignment4/CS_Assignment4/obj/Debug/net8.0/CS_Assignment4.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS_Assignment4/CS_Assignment4/obj/Debug/net8.0/CS_Assignment4.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS_Assignment4/CS_Assignment4/obj/Debug/net8.0/CS_Assignment4.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS_Assignment4/CS_Assignment4/obj/Debug/net8.0/CS_Assignment4.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS_Assignment4/CS_Assignment4/obj/Debug/net8.0/CS_Assignment4.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS_Assignment4/CS_Assignment4/obj/Debug/net8.0/CS_Assignment4.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS_Assignment4/CS_Assignment4/obj/Debug/net8.0/CS_Assignment4.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS_Assignment4/CS_Assignment4/obj/Debug/net8.0/CS_Assignment4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS_Assignment4/CS_Assignment4/obj/Debug/net8.0/CS_Assignment4.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS_Assignment4/CS_Assignment4/obj/Debug/net8.0/CS_Assignment4.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS_Assignment4/CS_Assignment4/obj/Debug/net8.0/CS_Assignment4.sourcelink.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS_Assignment4/CS_Assignment4/obj/Debug/net8.0/apphost" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS_Assignment4/CS_Assignment4/obj/Debug/net8.0/ref/CS_Assignment4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS_Assignment4/CS_Assignment4/obj/Debug/net8.0/refint/CS_Assignment4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS_Assignment4/CS_Assignment4/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS_Assignment4/CS_Assignment4/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS_Assignment4/CS_Assignment4/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CS_Assignment1/obj/Debug/net8.0/CS_Assignment1.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CS_Assignment1/obj/Debug/net8.0/CS_Assignment1.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CS_Assignment1/obj/Debug/net8.0/CS_Assignment1.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CS_Assignment1/obj/Debug/net8.0/CS_Assignment1.AssemblyInfoInputs.cache" afterDir="false" />
     </list>
@@ -113,6 +111,7 @@
       <updated>1719349051855</updated>
       <workItem from="1719349053386" duration="4504000" />
       <workItem from="1719522491842" duration="1642000" />
+      <workItem from="1719549946912" duration="1213000" />
     </task>
     <servers />
   </component>
