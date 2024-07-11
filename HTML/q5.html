@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Antra LIFE</title>
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            justify-content: flex-start;
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+        }
+        .header {
+            width: 100%;
+            text-align: center;
+            font-weight: bold;
+            font-size: xx-large;
+            margin-bottom: 20px;
+            color: blue;
+        }
+        .row {
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 10px;
+        }
+        .row:last-child {
+            margin-bottom: 0;
+        }
+        .button {
+            flex: 1;
+            padding: 25px;
+            border: 2px double black;
+            margin: 5px;
+            color: blue;
+            font-size: large;
+            cursor: pointer;
+            text-align: center;
+        }
+        .nested-buttons {
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+        }
+        .small-button {
+            padding: 10px;
+            font-size: small;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">Antra LIFE</div>
+        <div class="row">
+            <a href="https://antra.com/"><button class="button">Google</button></a>
+            <a href="https://antra.com/"><button class="button">GitHub</button></a>
+        </div>
+        <div class="row">
+            <a href="https://antra.com/"><button class="button">FB</button></a>
+            <a href="https://antra.com/"><button class="button">GMail</button></a>
+            <a href="https://antra.com/"><button class="button">YouTube</button></a>
+            <a href="https://antra.com/"><button class="button">2048</button></a>
+        </div>
+        <div class="row">
+            <a href="https://antra.com/"><button class="button">Food</button></a>
+            <a href="https://antra.com/"><button class="button" style="flex: 2;">Game</button></a>
+            <div class="nested-buttons">
+                <a href="https://antra.com/"><button class="button small-button">Social Life</button></a>
+                <a href="https://antra.com/"><button class="button small-button">Sleep</button></a>
+            </div>
+        </div>
+        <div class="row">
+            <a href="https://antra.com/"><button class="button" style="flex: 3; text-align: right; font-size: x-large;">Beer >>></button></a>
+            <a href="https://antra.com/"><button class="button">WC</button></a>
+        </div>
+    </div>
+</body>
+</html>
