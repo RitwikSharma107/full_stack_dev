@@ -7,8 +7,9 @@ variables:
   buildConfiguration: 'Release'
 
 steps:
-- script: dotnet build MovieShop/MovieShop.csproj --configuration $(buildConfiguration)
+- script: dotnet build MovieShop/MovieShop.sln --configuration $(buildConfiguration)
   displayName: 'dotnet build $(buildConfiguration)'
+  workingDirectory: MovieShop
 
 - task: DotNetCoreCLI@2
   inputs:
